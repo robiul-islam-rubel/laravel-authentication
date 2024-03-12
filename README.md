@@ -1,12 +1,35 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Laravel Authentication
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About This Project
+# Description
 
 In this project, I just added an authentication that only authorized users can see what is present on the specific webpage.
+
+# Project Objective
+The objective of the project was to learn how authentication works in laravel
+# Key Features
+```ruby
+Login System
+```
+```ruby
+Registration System
+```
+```ruby
+Authorized user can only visit the specific webpage
+```
+
+# Getting Started
+
+Clone the repository: git clone https://github.com/robiul-islam-rubel/laravel-authentication.git
+Explore Jupyter notebooks for data exploration, model building, and analysis.
+Customize model hyperparameters and try various classification techniques.
+Gain insights into feature importance for accurate species classification.
+
+# Contributions
+
+Contributions are welcome! Fork the repository, enhance the project, and create pull requests to contribute to this educational endeavor.
+
+# Disclaimer
+
+This is the simple laravel authen project for practive purposes.
+
+
